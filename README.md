@@ -8,8 +8,8 @@
 
 More about me: 
 - :school: I'm a Computer Science student at [@Tiradentes University](https://www.unit.br/en/undergraduate) 
-- 🔭 I’m currently working at [@Teltec Solutions](https://github.com/teltec)
-- 🌱 I’m currently learning Python, Apache Spark, Hadoop, Apache Airflow, Apache Kafka, Azure, AWS, Cisco DevNet and any more!
+- 🔭 I’m currently working at [@XP Inc]
+- 🌱 I’m currently learning Python, Apache Spark, Hadoop, Apache Airflow, Apache Kafka, Azure, AWS and any more!
 - 👯 I’m looking to collaborate on big data projects.
 - 📫 How to reach me: [My personal e-mail](mailto:natanascimentom@icloud.com)
 
