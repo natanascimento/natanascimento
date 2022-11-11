@@ -8,7 +8,7 @@
 
 More about me: 
 - :school: I'm a Computer Science student at [@Tiradentes University](https://www.unit.br/en/undergraduate) 
-- 🔭 I’m currently working as Data & Software Engineer at [@XP Inc.](https://www.xpinc.com/carreiras/#/tecnologia) 
+- 🔭 I’m currently working as a Senior Data Engineer at [@John Deere 💚](https://www.deere.com/en/our-company/john-deere-careers/) 
 - 🌱 I’m currently learning Python, Apache Spark, Hadoop, Apache Airflow, Apache Kafka, Azure, AWS and any more!
 - 👯 I’m looking to collaborate on big data projects.
 - 📫 How to reach me: [My personal e-mail](mailto:natanascimentom@icloud.com)
