@@ -7,9 +7,9 @@
 
 
 More about me: 
-- :school: I'm a Computer Science student at [@Tiradentes University](https://www.unit.br/en/undergraduate) 
-- 🔭 I’m currently working as a Senior Data Engineer at [@John Deere 💚](https://www.deere.com/en/our-company/john-deere-careers/) 
-- 🌱 I’m currently learning Python, Apache Spark, Hadoop, Apache Airflow, Apache Kafka, Azure, AWS and any more!
+- :school: I'm a Computer Scientist at [@Tiradentes University](https://www.unit.br/en/undergraduate) and a master's student at [@Sergipe Federal University](https://www.sigaa.ufs.br/sigaa/public/programa/portal.jsf?id=710)
+- 🔭 I’m currently working as a Data Architect at [@Latam Airlines](https://www.latamairlines.com/us/en/work-with-us).
+- 🌱 I’m currently learning Architecture Patterns, Deeping dive on Big Data tools and Cloud Computing vendors (like GCP and AWS).
 - 👯 I’m looking to collaborate on big data projects.
 - 📫 How to reach me: [My personal e-mail](mailto:natanascimentom@icloud.com)
 
